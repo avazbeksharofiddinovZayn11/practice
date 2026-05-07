@@ -29,4 +29,4 @@ git piil origin master
 - Class deep dive
 - Operation & Condions
 - Lopps
-- ....
+- ..
