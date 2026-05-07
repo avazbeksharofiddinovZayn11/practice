@@ -22,11 +22,11 @@ git piil origin master
 
 ## Python Foundation:
 
--Primitive Variables
--Function
--Object 
--Class 
--Class deep dive
--Operation & Condions
--Lopps
--....
+- Primitive Variables
+- Function
+- Object 
+- Class 
+- Class deep dive
+- Operation & Condions
+- Lopps
+- ....
