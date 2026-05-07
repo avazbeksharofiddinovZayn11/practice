@@ -6,3 +6,6 @@ print(b)
 
 a = 456
 print(a)
+
+insa = "salom"
+print(insa)
