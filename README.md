@@ -19,3 +19,14 @@ git remove add origiin https://github_adress
 git push origin master 
 git piil origin master
 ```
+
+## Python Foundation:
+
+-Primitive Variables
+-Function
+-Object 
+-Class 
+-Class deep dive
+-Operation & Condions
+-Lopps
+-....
