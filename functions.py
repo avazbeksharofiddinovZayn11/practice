@@ -40,3 +40,16 @@ print("result3", result3)
 
 result3 = give_greet("John",)
 print("result3", result3)
+
+
+print("===== Scope =====")
+b= 100
+
+
+#Define 
+def calculate(a, b):
+    c= a * b
+    print(f"the c value: {c}")
+
+#Call
+calculate(56, 28)
