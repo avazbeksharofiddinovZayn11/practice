@@ -43,7 +43,7 @@ print("result3", result3)
 
 
 print("===== Scope =====")
-b= 100
+b = 100
 
 
 #Define 
