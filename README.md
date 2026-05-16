@@ -25,8 +25,13 @@ git piil origin master
 - Primitive Variables
 - Function
 - Object 
-- Class 
+- Class about 
 - Class deep dive
 - Operation & Condions
 - Lopps
-- ..
+- Tuple
+- List
+- Array
+- Comprehension 
+- Debugging 
+- ...
