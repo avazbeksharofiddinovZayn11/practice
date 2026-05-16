@@ -52,3 +52,13 @@ calculate(2, 5, 83, 93)
 calculate(0, 5, 567)
 print("------")
 calculate(7, 9)
+
+# **kwargs > divtionary
+def introduce(**kwargs):
+    print(f"the type(**kwargs) value {type(kwargs)}")
+    print(f" Hi I am {kwargs["name"]} and I am {kwargs["age"]} years old!")
+    
+
+#call
+introduce(name="Justin", age=22)
+introduce(name="Shawn", age=30, single=True)
